@@ -1,3 +1,6 @@
 [submodule "izrada-web-stranice-web-shop-franko-govic"]
 	path = izrada-web-stranice-web-shop-franko-govic
 	url = https://github.com/Trokut-Neet-Akademija-4-0/izrada-web-stranice-web-shop-franko-govic.git
+[submodule "izrada-web-stranice-web-shop-franko-govic-test"]
+	path = izrada-web-stranice-web-shop-franko-govic-test
+	url = https://github.com/franko-govic/izrada-web-stranice-web-shop-franko-govic-test.git
