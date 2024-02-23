@@ -4,3 +4,6 @@
 [submodule "izrada-web-stranice-web-shop-franko-govic-test"]
 	path = izrada-web-stranice-web-shop-franko-govic-test
 	url = https://github.com/franko-govic/izrada-web-stranice-web-shop-franko-govic-test.git
+[submodule "Quiz"]
+	path = Quiz
+	url = https://github.com/franko-govic/Quiz.git
