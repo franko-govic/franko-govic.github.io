@@ -1,0 +1,21 @@
+h2 {
+  text-align: center;
+}
+
+.project-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.project-card {
+  width: 30%;
+  border: 1px solid white;
+  object-fit: cover;
+  
+}
+
+.placeholder-image {
+  width: 100%;
+}
