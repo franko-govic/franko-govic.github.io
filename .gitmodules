@@ -7,3 +7,6 @@
 [submodule "Quiz"]
 	path = Quiz
 	url = https://github.com/franko-govic/Quiz.git
+[submodule "rock-paper-scissors"]
+	path = rock-paper-scissors
+	url = https://github.com/franko-govic/rock-paper-scissors.git
