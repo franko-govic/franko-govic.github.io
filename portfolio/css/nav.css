@@ -1,0 +1,32 @@
+.logo {
+  font-family: Shadows Into Light;
+  font-size: 4rem;
+  -webkit-text-stroke: 2px rgb(83, 255, 246);
+  text-shadow: 0 0 1rem rgb(9, 246, 234);
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.nav-links ul{
+  display: flex;
+  gap: 1.5rem;
+}
+
+.nav-links li {
+  display: block;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: white;
+  -webkit-text-stroke: 0.5px rgb(83, 255, 246);
+}
+
+.nav-links a:hover {
+  text-shadow: 0 0 1rem rgb(9, 246, 234);
+ border-bottom: 1px solid rgb(9, 246, 234);
+}
